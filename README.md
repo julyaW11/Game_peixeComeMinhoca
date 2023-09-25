@@ -1,2 +1,2 @@
 # Game_peixeComeMinhoca
-Jogo feito em OpenGL.
+Jogo feito em C++ com OpenGL.
